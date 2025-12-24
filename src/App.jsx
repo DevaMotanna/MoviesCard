@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Home from "./pages/Home";
-import MovieDetails from "./pages/MovieDetails";
-import Favorites from './pages/Favorites'
+import Home from "./Pages/Home";
+import MovieDetails from "./Pages/MovieDetails";
+import Favorites from './Pages/Favorites'
 
 function App() {
   return (
